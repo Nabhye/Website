@@ -1,0 +1,21 @@
+body{
+    color: none;
+    margin: center;
+    padding: center;
+}
+.head{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+}
+.contact-form2{
+    position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 900px;
+	height: 370px;
+	padding: 80px 40px;
+	background: rgba(0, 0, 0, 0.5);
+}
